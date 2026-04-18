@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="uber-files.png" alt="Uber Trip Analytics" width="100%">
+</p>
 
 A professional Machine Learning application designed to predict Uber trip distances (miles) using high-fidelity predictive modeling. This project transitions from raw data exploration to a live, interactive dashboard.
 
